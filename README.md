@@ -1,21 +1,28 @@
 # Resources for JMonkeyEngine
 
-Don't have JMonkeyEngine yet? [Get started!](https://jmonkeyengine.org/start/)<br>
-Questions? Consult our [forum!](https://hub.jmonkeyengine.org/)
+Don't have JMonkeyEngine yet? [Get started](https://jmonkeyengine.org/start/)!<br>
+Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
 🏳️ = highly suggested for your project
 
 #### Table of Contents
+* [Tutorials & Help](#tutorials): resources to get you started using JMonkeyEngine
 * [Engine Plugins](#engine-plugins): libraries you can plug directly into your JMonkeyEngine project
 * [SDK Plugins](#sdk-plugins): plugins for the JMonkeyEngine SDK
 * [Asset Depots](#asset-depots): where you can get assets for your projects
 * [Engine Demos](#engine-demos): demos of JMonkeyEngine
 
+<a name="tutorials"></a>
+## Tutorials & Help
+
+* 🏳️ [Official Wiki](https://wiki.jmonkeyengine.org/)
+* 🏳️ [Official Forum](https://hub.jmonkeyengine.org/)
+
 <a name="engine-plugins"></a>
 ## Engine Plugins
 
 * [Acorus](https://github.com/stephengold/Acorus) simple user interface (GUI)
-* [Blocks](https://github.com/rvandoosselaer/Blocks) voxel engine, with [editor](https://github.com/rvandoosselaer/BlocksBuilder)
+* 🏳️ [Blocks](https://github.com/rvandoosselaer/Blocks) voxel engine, with [editor](https://github.com/rvandoosselaer/BlocksBuilder)
 * [Boost](https://github.com/codex128/Boost) general-use utilities
 * [Garret](https://github.com/stephengold/Garrett) camera controls
 * [Georg](https://github.com/stephengold/Georg) procedural texture generator
@@ -64,6 +71,7 @@ Questions? Consult our [forum!](https://hub.jmonkeyengine.org/)
 <a name="engine-demos"></a>
 ## Engine Demos
 
+* [FPS Demo](https://github.com/riccardobl/FPSDEMO-jMonkeyEngine) fps demo with JMonkeyEngine
 * [JmeAndroidDemo](https://github.com/jMonkeyEngine/JmeAndroidDemo) demo of JMonkeyEngine on Android
 * [jme-vehicles](https://github.com/Ali-RS/jme-vehicles) tech demo for vehicles
 * [MonkeyZone](https://github.com/jMonkeyEngine/monkeyzone) networked multiplayer demo
