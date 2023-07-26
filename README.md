@@ -15,7 +15,7 @@
 * [Jme-es-physics](https://github.com/rvandoosselaer/Jme-es-physics) physics intergration for [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es)
 * [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
 * [Jogex](https://github.com/Simsilica/jogex) Open Game Engine Exchange (ogex) file handling
-* 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur): GUI
+* 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur) GUI
 * [Maud](https://github.com/stephengold/Maud) editor for animated models
 * 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced physics
 * [MonkeyBrains](https://github.com/QuietOne/MonkeyBrains) AI behavior management
@@ -29,7 +29,7 @@
 * [SimFX](https://github.com/Simsilica/SimFX) game effects
 * [SimMath](https://github.com/Simsilica/SimMath) math library
 * [SiO2](https://github.com/Simsilica/SiO2) general-use utilities
-* [SkyControl](https://github.com/stephengold/SkyControl)
-* [ToneGodGui](https://github.com/meltzow/tonegodgui)
+* [SkyControl](https://github.com/stephengold/SkyControl) fancy sky renderer
+* [ToneGodGui](https://github.com/meltzow/tonegodgui) graphical user interface
 * [Wes](https://github.com/stephengold/Wes) animation editing and retargeting
 * 🏳️ [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
