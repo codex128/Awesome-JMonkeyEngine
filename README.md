@@ -1,6 +1,7 @@
 # Resources for JMonkeyEngine
 
-Don't have JMonkeyEngine yet? [Get started!](https://jmonkeyengine.org/start/)
+Don't have JMonkeyEngine yet? [Get started!](https://jmonkeyengine.org/start/)<br>
+Questions? Consult our [forum!](https://hub.jmonkeyengine.org/)
 
 🏳️ = highly suggested for your project
 
