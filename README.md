@@ -39,7 +39,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [JmeConvert](https://github.com/Simsilica/JmeConvert) or [JmeConverter](https://github.com/rvandoosselaer/JmeConverter): convert model formats to j3o
 * [Jme-Effekseer](https://github.com/riccardobl/jme-effekseerNative) Effekseer effect loader and renderer
 * [JmeFastNoise](https://github.com/Ali-RS/jme-fastnoise) noise generation
-* [Jme-es-physics](https://github.com/rvandoosselaer/Jme-es-physics) bullet physics intergration for [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es)
+* [Jme-es-physics](https://github.com/rvandoosselaer/Jme-es-physics) bullet physics intergration for [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
 * [JmeInitializer](https://jmonkeyengine.org/start/) assists creation of multi-platform gradle projects (or on [GitHub](https://github.com/richardTingle/jmeinitializer))
 * [JmeNavmesh](https://github.com/capdevon/jme-navmesh-ai) navigation mesh toolset
 * [JmePhonon](https://github.com/jmePhonon/jmePhonon) steam audio support
