@@ -89,7 +89,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 ## Asset Stores
 
 * 🏳️ [Mixamo](https://mixamo.com/) 3D character models and animations
-* [Kenney](https://kenney.nl/) low-poly themed game assets
+* [Kenney](https://kenney.nl/) themed low-poly game assets
 * [OpenGameArt](https://opengameart.org/) general game assets
 
 (and much more that I haven't added yet)
