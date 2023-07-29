@@ -34,6 +34,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [IGUI](https://github.com/riccardobl/jme-igui) immediate, minimalistic GUI
 * [IsoSurface](https://github.com/Simsilica/IsoSurface) infinite terrain library
 * [J3map](https://github.com/codex128/J3map) file format for storing game object properties
+* [Jector](https://github.com/Software-Hardware-Codesign/Jector/tree/incubator-2) dependency injection framework
 * [Jme-alloc](https://github.com/Software-Hardware-Codesign/jme-alloc) direct dynamic memory allocator
 * [Jme-Cardboard](https://github.com/neph1/jme-cardboard) Google Cardboard integration
 * [Jme-clj](https://github.com/ertugrulcetin/jme-clj) Clojure wrapper for JMonkeyEngine
@@ -46,6 +47,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
 * [jMonkeyVR](https://github.com/phr00t/jMonkeyVR) universal VR development solution
 * [Jogex](https://github.com/Simsilica/jogex) Open Game Engine Exchange (ogex) file handling
+* [JoystickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule) arduino joystick support using Pi4J
 * 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur) GUI
 * 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced physics
 * [MonkeyBrains](https://github.com/QuietOne/MonkeyBrains) AI behavior management
