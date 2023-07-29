@@ -3,7 +3,7 @@
 **Don't have JMonkeyEngine yet?** [Get started](https://jmonkeyengine.org/start/)!<br>
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
-🏳️ = highly suggested for your project
+🏳️ = highly suggested for your project.<br>
 All code resources here are free and open source.
 
 #### Table of Contents
