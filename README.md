@@ -4,6 +4,7 @@
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
 🏳️ = highly suggested for your project
+All code resources here are free and open source.
 
 #### Table of Contents
 * [Tutorials & Help](#tutorials): resources to get you started using JMonkeyEngine
