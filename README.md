@@ -103,22 +103,22 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 ## User Interface
 * [Acorus](https://github.com/stephengold/Acorus) simple user interface
 * [ControllerConfig](https://github.com/Markil3/JMEControllerConfig) in-game controller configuration utilities
-* [GalagoUI](https://github.com/nickidebruyn/GalagoUI) user interface framework
+* [GalagoUI](https://github.com/nickidebruyn/GalagoUI)
 * [IGUI](https://github.com/riccardobl/jme-igui) immediate, minimalistic interface
 * [JoystickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule) arduino joystick support using Pi4J
 * 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur)
-* [ToneGodGui](https://github.com/meltzow/tonegodgui) graphical user interface
+* [ToneGodGui](https://github.com/meltzow/tonegodgui)
 
 <a name="utilities"></a>
 ## Utilities
-* [Boost](https://github.com/codex128/Boost) general-use utilities
+* [Boost](https://github.com/codex128/Boost)
 * [Garret](https://github.com/stephengold/Garrett) camera controls
-* [Heart](https://github.com/stephengold/Heart) general-use utilities
+* 🏳️ [Heart](https://github.com/stephengold/Heart)
 * [J3map](https://github.com/codex128/J3map) file format for storing game object properties
 * [JmeFastNoise](https://github.com/Ali-RS/jme-fastnoise) noise generation
 * [OpenHex](https://github.com/IBEngineering/OpenHex) hexagonal utilities
 * [SimMath](https://github.com/Simsilica/SimMath) math library
-* [SiO2](https://github.com/Simsilica/SiO2) general-use utilities
+* [SiO2](https://github.com/Simsilica/SiO2)
 
 <a name="vr-ar"></a>
 ## Virtual/Augmented Reality
