@@ -33,6 +33,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 * 🏳️ [Official Wiki](https://wiki.jmonkeyengine.org/)
 * 🏳️ [Official Forum](https://hub.jmonkeyengine.org/)
+* [Chat-jme](https://github.com/riccardobl/chat-jme) assistance AI
 * [JME3Tutorials](https://github.com/jmecn/jME3Tutorials) (in Chinese)
 
 <a name="animation"></a>
@@ -138,7 +139,6 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="other"></a>
 ## Other
-* [Chat-jme](https://github.com/riccardobl/chat-jme) assistance AI
 * [Jector](https://github.com/Software-Hardware-Codesign/Jector) dependency injection framework
 * [Jme-alloc](https://github.com/Software-Hardware-Codesign/jme-alloc) direct dynamic memory allocator
 * [Jme-clj](https://github.com/ertugrulcetin/jme-clj) Clojure wrapper for JMonkeyEngine
