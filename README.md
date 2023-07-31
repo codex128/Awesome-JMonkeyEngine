@@ -101,13 +101,13 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="ui"></a>
 ## User Interface
-* [Acorus](https://github.com/stephengold/Acorus) simple user interface
+* [Acorus](https://github.com/stephengold/Acorus) simple graphical user interface
 * [ControllerConfig](https://github.com/Markil3/JMEControllerConfig) in-game controller configuration utilities
-* [GalagoUI](https://github.com/nickidebruyn/GalagoUI)
-* [IGUI](https://github.com/riccardobl/jme-igui) immediate, minimalistic interface
+* [GalagoUI](https://github.com/nickidebruyn/GalagoUI) graphical user interface
+* [IGUI](https://github.com/riccardobl/jme-igui) immediate, minimalistic graphical user interface
 * [JoystickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule) arduino joystick support using Pi4J
-* 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur)
-* [ToneGodGui](https://github.com/meltzow/tonegodgui)
+* 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur) graphical user interface similar to swing
+* [ToneGodGui](https://github.com/meltzow/tonegodgui) graphical user interface
 
 <a name="utilities"></a>
 ## Utilities
