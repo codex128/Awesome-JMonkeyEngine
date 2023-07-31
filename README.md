@@ -3,99 +3,144 @@
 **Don't have JMonkeyEngine yet?** [Get started](https://jmonkeyengine.org/start/)!<br>
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
-🏳️ = highly suggested for your project.<br>
-All code resources here are free and open source.
+🏳️ = highly suggested for your project.
 
-#### Table of Contents
-* [Tutorials & Help](#tutorials): resources to get you started using JMonkeyEngine
-* [Engine Plugins](#engine-plugins): libraries you can plug directly into your JMonkeyEngine project
-* [Engine Tools](#engine-tools): assistance with project development
-* [SDK Plugins](#sdk-plugins): plugins for the JMonkeyEngine SDK
-* [Asset Stores](#asset-stores): websites that provide a large number of game assets
+### Table of Contents
+<details title="Table Of Contents">
+  <ul>
+    <li><a href="#help">Tutorials & Help</a></li>
+    <li><a href="#animation">Animation</a></li>
+    <li><a href="#ai">Artificial Intelligence</a></li>
+    <li><a href="#asset-stores">Asset Stores</a></li>
+    <li><a href="#asset-tools">Asset Tools</a></li>
+    <li><a href="#effects">Effects</a></li>
+    <li><a href="#ecs">Entity Component System</a></li>
+    <li><a href="#multiplayer">Multiplayer</a></li>
+    <li><a href="#rendering">Rendering</a></li>
+    <li><a href="#physics">Physics</a></li>
+    <li><a href="#terrain">Terrain</a></li>
+    <li><a href="#ui">User Interface</a></li>
+    <li><a href="#utilities">Utilities</a></li>
+    <li><a href="#vr-ar">Virtual/Augmented Reality</a></li>
+    <li><a href="#voxels">Voxels</a></li>
+    <li><a href="#2d">2D</a></li>
+    <li><a href="#other">Other</a></li>
+  </ul>
+</details>
 
-<a name="tutorials"></a>
+<a name="help"></a>
 ## Tutorials & Help
 
 * 🏳️ [Official Wiki](https://wiki.jmonkeyengine.org/)
 * 🏳️ [Official Forum](https://hub.jmonkeyengine.org/)
 * [JME3Tutorials](https://github.com/jmecn/jME3Tutorials) (in Chinese)
 
-<a name="engine-plugins"></a>
-## Engine Plugins
-
-* [Acorus](https://github.com/stephengold/Acorus) simple user interface (GUI)
-* [ARMonkeyKit](https://github.com/ajclarkson/ARMonkeyKit) rapid prototyping for augmented reality
-* 🏳️ [Blocks](https://github.com/rvandoosselaer/Blocks) voxel engine, with [editor](https://github.com/rvandoosselaer/BlocksBuilder)
-* [Boost](https://github.com/codex128/Boost) general-use utilities
-* [ControllerConfig](https://github.com/Markil3/JMEControllerConfig) in-game controller configuration utilities
-* 🏳️ [Galago2D](https://github.com/nickidebruyn/Galago2D) 2D game utilities
-* [GalagoUI](https://github.com/nickidebruyn/GalagoUI) GUI framework
-* [Garret](https://github.com/stephengold/Garrett) camera controls
-* [Heart](https://github.com/stephengold/Heart) general-use utilities
-* [IGUI](https://github.com/riccardobl/jme-igui) immediate, minimalistic GUI
-* [IsoSurface](https://github.com/Simsilica/IsoSurface) infinite terrain library
-* [J3map](https://github.com/codex128/J3map) file format for storing game object properties
-* [Jector](https://github.com/Software-Hardware-Codesign/Jector/tree/incubator-2) dependency injection framework
-* [Jme-alloc](https://github.com/Software-Hardware-Codesign/jme-alloc) direct dynamic memory allocator
-* [Jme-Cardboard](https://github.com/neph1/jme-cardboard) Google Cardboard integration
-* [Jme-clj](https://github.com/ertugrulcetin/jme-clj) Clojure wrapper for JMonkeyEngine
-* [Jme-Effekseer](https://github.com/riccardobl/jme-effekseerNative) Effekseer effect loader and renderer
-* [JmeFastNoise](https://github.com/Ali-RS/jme-fastnoise) noise generation
-* [Jme-es-physics](https://github.com/rvandoosselaer/Jme-es-physics) bullet physics intergration for [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
-* [JmeInitializer](https://jmonkeyengine.org/start/) assists creation of multi-platform gradle projects (or on [GitHub](https://github.com/richardTingle/jmeinitializer))
-* [JmeNavmesh](https://github.com/capdevon/jme-navmesh-ai) navigation mesh toolset
-* [JmePhonon](https://github.com/jmePhonon/jmePhonon) steam audio support
-* [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
-* [jMonkeyVR](https://github.com/phr00t/jMonkeyVR) universal VR development solution
-* [Jogex](https://github.com/Simsilica/jogex) Open Game Engine Exchange (ogex) file handling
-* [JoystickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule) arduino joystick support using Pi4J
-* 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur) GUI
-* 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced physics
-* [MonkeyBrains](https://github.com/QuietOne/MonkeyBrains) AI behavior management
-* [MonkeySheet](https://github.com/Pesegato/MonkeySheet) spritesheet library
-* [Open Game Finder](https://code.google.com/archive/p/open-game-finder/downloads/list): multiplayer game-finder
-* [OpenHex](https://github.com/IBEngineering/OpenHex) hexagonal utilities
-* [QuakeMonkey](https://github.com/benruijl/quakemonkey) implementation of Quake 3 networking
-* [Pager](https://github.com/Simsilica/Pager) infinite terrain manager
-* [RyzomConverter](https://github.com/stephengold/RyzomConverter) Ryzom models adaption for use in jme
-* [SelectObjectOutliner](https://github.com/polincdev/SelectObjectOutliner) outlines select objects in a scene
-* [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib) shaders and filters
-* [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator, with [editor](https://github.com/Simsilica/SimArboreal-Editor)
-* [SimEthereal](https://github.com/Simsilica/SimEthereal) high-performance real-time networked object synching
-* [SimFX](https://github.com/Simsilica/SimFX) game effects
-* [SimMath](https://github.com/Simsilica/SimMath) math library
-* [SiO2](https://github.com/Simsilica/SiO2) general-use utilities
-* [SkyControl](https://github.com/stephengold/SkyControl) fancy sky renderer
-* [Spatial Explorer](https://github.com/davidB/jme3_ext_spatial_explorer) in-game scene graph debug tool
-* [Tamarin](https://github.com/oneMillionWorlds/Tamarin) VR utilites
-* [ToneGodGui](https://github.com/meltzow/tonegodgui) graphical user interface
-* [VideoPlayer](https://github.com/capdevon/jme-video-player) in-game media player
-* [VolumetricLighting](https://github.com/polincdev/VolumetricLighting) volumetric (visible) light rendering
-* [VoxelTerrain](https://github.com/TheWiseLion/VoxelTerrain) voxel terrain engine
-* 🏳️ [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
-
-<a name="engine-tools"></a>
-## Engine Tools
-* [Chat-jme](https://github.com/riccardobl/chat-jme) assistance AI
-* [Georg](https://github.com/stephengold/Georg) procedural texture generator
-* [JCubemapAssembler](https://github.com/riccardobl/JCubemapAssembler): assebles cubemaps from six seperate images
-* [JmeConvert](https://github.com/Simsilica/JmeConvert) or [JmeConverter](https://github.com/rvandoosselaer/JmeConverter): convert model formats to j3o
+<a name="animation"></a>
+## Animation
 * [Maud](https://github.com/stephengold/Maud) editor for animated models
 * [Wes](https://github.com/stephengold/Wes) animation editing and retargeting
 
-<a name="sdk-plugins"></a>
-## SDK Plugins
-
-* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
+<a name="ai"></a>
+## Artificial Intelligence
+* [JmeNavmesh](https://github.com/capdevon/jme-navmesh-ai) navigation mesh toolset
+* [MonkeyBrains](https://github.com/QuietOne/MonkeyBrains) AI behavior management
 
 <a name="asset-stores"></a>
 ## Asset Stores
+* [Kenney](https://kenney.nl/) free themed low-poly game assets
+* 🏳️ [Mixamo](https://mixamo.com/) free 3D character models and animations
+* [OpenGameArt](https://opengameart.org/) free general game assets
 
-* 🏳️ [Mixamo](https://mixamo.com/) 3D character models and animations
-* [Kenney](https://kenney.nl/) themed low-poly game assets
-* [OpenGameArt](https://opengameart.org/) general game assets
+<a name="assets-tools"></a>
+## Asset Tools
+* [Georg](https://github.com/stephengold/Georg) procedural texture generator
+* [JCubemapAssembler](https://github.com/riccardobl/JCubemapAssembler): assebles cubemaps from six seperate images
+* [Jogex](https://github.com/Simsilica/jogex) Open Game Engine Exchange (ogex) file handling
+* [JmeConvert](https://github.com/Simsilica/JmeConvert) or [JmeConverter](https://github.com/rvandoosselaer/JmeConverter): convert model formats to j3o
+* [MonkeySheet](https://github.com/Pesegato/MonkeySheet) spritesheet library
+* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
+* [RyzomConverter](https://github.com/stephengold/RyzomConverter) Ryzom models adaption for use in jme
+* [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator, with [editor](https://github.com/Simsilica/SimArboreal-Editor)
 
-(and much more that I haven't added yet)
+<a name="effects"></a>
+## Effects
+* [Jme-Effekseer](https://github.com/riccardobl/jme-effekseerNative) Effekseer effect loader and renderer
+* [JmePhonon](https://github.com/jmePhonon/jmePhonon) steam audio support
+* [SelectObjectOutliner](https://github.com/polincdev/SelectObjectOutliner) outlines select objects in a scene
+* [SimFX](https://github.com/Simsilica/SimFX) game effects
 
+<a name="ecs"></a>
+## Entity Component System
+* 🏳️ [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
+* [Jme-es-physics](https://github.com/rvandoosselaer/Jme-es-physics) jbullet & [Minie](https://github.com/stephengold/Minie) intergration for [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
 
+<a name="multiplayer"></a>
+## Multiplayer
+* [monkey-netty](https://github.com/tlf30/monkey-netty) server-client communication system using Netty.IO
+* [Open Game Finder](https://code.google.com/archive/p/open-game-finder/downloads/list): multiplayer game-finder
+* [QuakeMonkey](https://github.com/benruijl/quakemonkey) implementation of Quake 3 networking
+* [SimEthereal](https://github.com/Simsilica/SimEthereal) high-performance real-time networked object synching
+
+<a name="rendering"></a>
+## Rendering
+* [HoloShader](https://github.com/grizeldi/HoloShader) hologram shader port
+* [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
+* [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib) shaders and filters
+* [SkyControl](https://github.com/stephengold/SkyControl) fancy sky renderer
+* [VideoPlayer](https://github.com/capdevon/jme-video-player) in-game media player
+* [VolumetricLighting](https://github.com/polincdev/VolumetricLighting) volumetric (visible) light rendering
+
+<a name="physics"></a>
+## Physics
+* 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
+
+<a name="terrain"></a>
+## Terrain
+* [IsoSurface](https://github.com/Simsilica/IsoSurface) infinite terrain library based on IsoSurface generation
+* [Pager](https://github.com/Simsilica/Pager) infinite terrain manager
+
+<a name="ui"></a>
+## User Interface
+* [Acorus](https://github.com/stephengold/Acorus) simple user interface
+* [ControllerConfig](https://github.com/Markil3/JMEControllerConfig) in-game controller configuration utilities
+* [GalagoUI](https://github.com/nickidebruyn/GalagoUI) user interface framework
+* [IGUI](https://github.com/riccardobl/jme-igui) immediate, minimalistic interface
+* [JoystickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule) arduino joystick support using Pi4J
+* 🏳️ [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur)
+* [ToneGodGui](https://github.com/meltzow/tonegodgui) graphical user interface
+
+<a name="utilities"></a>
+## Utilities
+* [Boost](https://github.com/codex128/Boost) general-use utilities
+* [Garret](https://github.com/stephengold/Garrett) camera controls
+* [Heart](https://github.com/stephengold/Heart) general-use utilities
+* [J3map](https://github.com/codex128/J3map) file format for storing game object properties
+* [JmeFastNoise](https://github.com/Ali-RS/jme-fastnoise) noise generation
+* [OpenHex](https://github.com/IBEngineering/OpenHex) hexagonal utilities
+* [SimMath](https://github.com/Simsilica/SimMath) math library
+* [SiO2](https://github.com/Simsilica/SiO2) general-use utilities
+
+<a name="vr-ar"></a>
+## Virtual/Augmented Reality
+* [ARMonkeyKit](https://github.com/ajclarkson/ARMonkeyKit) rapid prototyping for augmented reality
+* [Jme-Cardboard](https://github.com/neph1/jme-cardboard) Google Cardboard integration
+* [jMonkeyVR](https://github.com/phr00t/jMonkeyVR) universal VR development solution
+* [Tamarin](https://github.com/oneMillionWorlds/Tamarin) VR utilites
+
+<a name="voxels"></a>
+## Voxels
+* 🏳️ [Blocks](https://github.com/rvandoosselaer/Blocks) voxel engine, with [editor](https://github.com/rvandoosselaer/BlocksBuilder)
+* [VoxelTerrain](https://github.com/TheWiseLion/VoxelTerrain) voxel terrain engine
+
+<a name="2d"></a>
+## 2D
+* 🏳️ [Galago2D](https://github.com/nickidebruyn/Galago2D) 2D game utilities
+
+<a name="other"></a>
+## Other
+* [Chat-jme](https://github.com/riccardobl/chat-jme) assistance AI
+* [Jector](https://github.com/Software-Hardware-Codesign/Jector) dependency injection framework
+* [Jme-alloc](https://github.com/Software-Hardware-Codesign/jme-alloc) direct dynamic memory allocator
+* [Jme-clj](https://github.com/ertugrulcetin/jme-clj) Clojure wrapper for JMonkeyEngine
+* [JmeInitializer](https://jmonkeyengine.org/start/) assists creation of multi-platform gradle projects (or on [GitHub](https://github.com/richardTingle/jmeinitializer))
 
