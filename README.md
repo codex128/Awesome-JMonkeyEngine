@@ -38,8 +38,8 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="animation"></a>
 ## Animation
-* [Maud](https://github.com/stephengold/Maud) editor for animated models
-* [Wes](https://github.com/stephengold/Wes) animation editing and retargeting
+* [Maud](https://github.com/stephengold/Maud) graphical editor for animated models
+* [Wes](https://github.com/stephengold/Wes) animation editing and retargeting library
 
 <a name="ai"></a>
 ## Artificial Intelligence
