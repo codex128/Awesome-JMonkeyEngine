@@ -120,7 +120,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [JmeFastNoise](https://github.com/Ali-RS/jme-fastnoise) noise generation
 * [OpenHex](https://github.com/IBEngineering/OpenHex) hexagonal utilities
 * [SimMath](https://github.com/Simsilica/SimMath) math library
-* [SiO2](https://github.com/Simsilica/SiO2)
+* 🏳️ [SiO2](https://github.com/Simsilica/SiO2)
 
 <a name="vr-ar"></a>
 ## Virtual/Augmented Reality
