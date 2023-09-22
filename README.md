@@ -62,6 +62,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
 * [RyzomConverter](https://github.com/stephengold/RyzomConverter) Ryzom models adaption for use in jme
 * [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator, with [editor](https://github.com/Simsilica/SimArboreal-Editor)
+* [TMXLoader](https://github.com/jmecn/TMXLoader) tiled map (.tmx) loader
 
 <a name="effects"></a>
 ## Effects
