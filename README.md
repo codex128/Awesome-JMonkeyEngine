@@ -1,5 +1,7 @@
 # Resources for JMonkeyEngine
 
+![sample-jmonkeyengine-games](https://github.com/codex128/JMonkeyEngine-Resources/blob/master/jme-game-collection.png?raw=true)
+
 **Don't have JMonkeyEngine yet?** [Get started](https://jmonkeyengine.org/start/)!<br>
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
