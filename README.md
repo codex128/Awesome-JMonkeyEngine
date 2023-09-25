@@ -2,6 +2,9 @@
 
 ![sample-jmonkeyengine-games](https://github.com/codex128/JMonkeyEngine-Resources/blob/master/jme-game-collection.png?raw=true)
 
+### What is JMonkeyEngine?
+JMonkeyEngine is a free and open-source 3D game engine built with Java. JMonkeyEngine is robust and easy-to-use, while giving as much control as possible to you, the developer. The engine has been used to power titles such as Lightspeed Frontier, Skullstone, Depthris, and more, since 2003.
+
 **Don't have JMonkeyEngine yet?** [Get started](https://jmonkeyengine.org/start/)!<br>
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
