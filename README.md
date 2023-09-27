@@ -96,6 +96,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [SkyControl](https://github.com/stephengold/SkyControl) fancy sky renderer
 * [VideoPlayer](https://github.com/capdevon/jme-video-player) in-game media player
 * [VolumetricLighting](https://github.com/polincdev/VolumetricLighting) volumetric (visible) light rendering
+* [Spix Light Probes](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/assets/Probes) prebuilt light probes ([thumbnails](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/src/main/resources/probeThumbs))
 
 <a name="physics"></a>
 ## Physics
