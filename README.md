@@ -73,8 +73,9 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 ## Effects
 * [Jme-Effekseer](https://github.com/riccardobl/jme-effekseerNative) Effekseer effect loader and renderer
 * [JmePhonon](https://github.com/jmePhonon/jmePhonon) steam audio support
+* [ParticleMonkey](https://github.com/Jeddic/particlemonkey) particle emission and influence
 * [SelectObjectOutliner](https://github.com/polincdev/SelectObjectOutliner) outlines select objects in a scene
-* [SimFX](https://github.com/Simsilica/SimFX) game effects
+* [SimFX](https://github.com/Simsilica/SimFX) lighting effects and utilities
 
 <a name="ecs"></a>
 ## Entity Component System
