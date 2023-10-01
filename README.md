@@ -71,6 +71,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="effects"></a>
 ## Effects
+* [BetterLensFlare](https://github.com/polincdev/BetterLensFlare) lens flare post-processor
 * [Jme-Effekseer](https://github.com/riccardobl/jme-effekseerNative) Effekseer effect loader and renderer
 * [JmePhonon](https://github.com/jmePhonon/jmePhonon) steam audio support
 * [ParticleMonkey](https://github.com/Jeddic/particlemonkey) particle emission and influence
