@@ -11,31 +11,33 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 🏳️ = highly suggested for your project.
 
 ### Table of Contents
-<details title="Table Of Contents">
-  <ul>
-    <li><a href="#help">Tutorials & Help</a></li>
-    <li><a href="#animation">Animation</a></li>
-    <li><a href="#ai">Artificial Intelligence</a></li>
-    <li><a href="#asset-stores">Asset Stores</a></li>
-    <li><a href="#asset-tools">Asset Tools</a></li>
-    <li><a href="#effects">Effects</a></li>
-    <li><a href="#ecs">Entity Component System</a></li>
-    <li><a href="#multiplayer">Multiplayer</a></li>
-    <li><a href="#rendering">Rendering</a></li>
-    <li><a href="#physics">Physics</a></li>
-    <li><a href="#terrain">Terrain</a></li>
-    <li><a href="#ui">User Interface</a></li>
-    <li><a href="#utilities">Utilities</a></li>
-    <li><a href="#vr-ar">Virtual/Augmented Reality</a></li>
-    <li><a href="#voxels">Voxels</a></li>
-    <li><a href="#2d">2D</a></li>
-    <li><a href="#other">Other</a></li>
-  </ul>
-</details>
+<ul>
+  <li><a href="#help">Getting Started</a></li>
+  <li><a href="#animation">Animation</a></li>
+  <li><a href="#ai">Artificial Intelligence</a></li>
+  <li><a href="#asset-stores">Asset Stores</a></li>
+  <li><a href="#asset-tools">Asset Tools</a></li>
+  <li><a href="#effects">Effects</a></li>
+  <li><a href="#ecs">Entity Component System</a></li>
+  <li><a href="geometry">Geometry</a></li>
+  <li><a href="materials">Materials</a></li>
+  <li><a href="#multiplayer">Multiplayer</a></li>
+  <li><a href="#rendering">Rendering</a></li>
+  <li><a href="#physics">Physics</a></li>
+  <li><a href="#terrain">Terrain</a></li>
+  <li><a href="#ui">User Interface</a></li>
+  <li><a href="#utilities">Utilities</a></li>
+  <li><a href="#vr-ar">Virtual/Augmented Reality</a></li>
+  <li><a href="#voxels">Voxels</a></li>
+  <li><a href="#2d">2D</a></li>
+  <li><a href="#other">Other</a></li>
+</ul>
+
+----
 
 <a name="help"></a>
-## Tutorials & Help
-
+## Getting Started
+* 🏳️ [Start Jme](https://jmonkeyengine.org/start/)
 * 🏳️ [Official Wiki](https://wiki.jmonkeyengine.org/)
 * 🏳️ [Official Forum](https://hub.jmonkeyengine.org/)
 * [Chat-jme](https://github.com/riccardobl/chat-jme) assistance AI
@@ -44,7 +46,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 <a name="animation"></a>
 ## Animation
 * [Maud](https://github.com/stephengold/Maud) graphical editor for animated models
-* [Wes](https://github.com/stephengold/Wes) animation editing and retargeting library
+* 🏳️ [Wes](https://github.com/stephengold/Wes) animation library
 
 <a name="ai"></a>
 ## Artificial Intelligence
@@ -54,20 +56,16 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 <a name="asset-stores"></a>
 ## Asset Stores
 * [Kenney](https://kenney.nl/) free themed low-poly game assets
-* 🏳️ [Mixamo](https://mixamo.com/) free 3D character models and animations
+* [Mixamo](https://mixamo.com/) free 3D character models and animations
 * [OpenGameArt](https://opengameart.org/) free general game assets
 
 <a name="assets-tools"></a>
 ## Asset Tools
-* [Georg](https://github.com/stephengold/Georg) procedural texture generator
 * [JCubemapAssembler](https://github.com/riccardobl/JCubemapAssembler): assebles cubemaps from six seperate images
 * [Jogex](https://github.com/Simsilica/jogex) Open Game Engine Exchange (ogex) file handling
 * [JmeConvert](https://github.com/Simsilica/JmeConvert) or [JmeConverter](https://github.com/rvandoosselaer/JmeConverter): convert model formats to j3o
-* [MonkeySheet](https://github.com/Pesegato/MonkeySheet) spritesheet library
 * [MonkeyWrench](https://github.com/stephengold/MonkeyWrench/tree/master) model importer (gltf+glb, 3ds, blend, dae, fbx, obj, and more)
-* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
 * [RyzomConverter](https://github.com/stephengold/RyzomConverter) Ryzom models adaption for use in jme
-* [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator, with [editor](https://github.com/Simsilica/SimArboreal-Editor)
 * [TMXLoader](https://github.com/jmecn/TMXLoader) tiled map (.tmx) loader
 
 <a name="effects"></a>
@@ -83,6 +81,16 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 ## Entity Component System
 * 🏳️ [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
 * [Jme-es-physics](https://github.com/rvandoosselaer/Jme-es-physics) jbullet & [Minie](https://github.com/stephengold/Minie) intergration for [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
+
+<a name="geometry"></a>
+## Geometry
+* [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator, with [editor](https://github.com/Simsilica/SimArboreal-Editor)
+
+<a name="materials"></a>
+## Materials
+* [Georg](https://github.com/stephengold/Georg) procedural texture generator
+* [MonkeySheet](https://github.com/Pesegato/MonkeySheet) spritesheet library
+* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
 
 <a name="multiplayer"></a>
 ## Multiplayer
@@ -152,5 +160,4 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [Jector](https://github.com/Software-Hardware-Codesign/Jector) dependency injection framework
 * [Jme-alloc](https://github.com/Software-Hardware-Codesign/jme-alloc) direct dynamic memory allocator
 * [Jme-clj](https://github.com/ertugrulcetin/jme-clj) Clojure wrapper for JMonkeyEngine
-* [JmeInitializer](https://jmonkeyengine.org/start/) assists creation of multi-platform gradle projects (or on [GitHub](https://github.com/richardTingle/jmeinitializer))
 
