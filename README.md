@@ -64,6 +64,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [Jogex](https://github.com/Simsilica/jogex) Open Game Engine Exchange (ogex) file handling
 * [JmeConvert](https://github.com/Simsilica/JmeConvert) or [JmeConverter](https://github.com/rvandoosselaer/JmeConverter): convert model formats to j3o
 * [MonkeySheet](https://github.com/Pesegato/MonkeySheet) spritesheet library
+* [MonkeyWrench](https://github.com/stephengold/MonkeyWrench/tree/master) model importer (gltf+glb, 3ds, blend, dae, fbx, obj, and more)
 * [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
 * [RyzomConverter](https://github.com/stephengold/RyzomConverter) Ryzom models adaption for use in jme
 * [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator, with [editor](https://github.com/Simsilica/SimArboreal-Editor)
