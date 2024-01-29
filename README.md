@@ -72,7 +72,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 ## Effects
 * [BetterLensFlare](https://github.com/polincdev/BetterLensFlare) lens flare post-processor
 * [Jme-Effekseer](https://github.com/riccardobl/jme-effekseerNative) Effekseer effect loader and renderer
-* [Jme-VFX](https://github.com/codex128/Jme-VFX) particles and general effects library (work in progress)
+* [Jme-VFX](https://github.com/codex128/Jme-VFX) particles and general effects library (name pending, work in progress)
 * [JmePhonon](https://github.com/jmePhonon/jmePhonon) steam audio support
 * [ParticleMonkey](https://github.com/Jeddic/particlemonkey) particle emission and influence
 * [SelectObjectOutliner](https://github.com/polincdev/SelectObjectOutliner) outlines select objects in a scene
