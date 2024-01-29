@@ -153,7 +153,8 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="2d"></a>
 ## 2D
-* 🏳️ [Galago2D](https://github.com/nickidebruyn/Galago2D) 2D game utilities
+* 🏳️ [Galago2D](https://github.com/nickidebruyn/Galago2D)
+* [JME3GL2](https://github.com/JNightRide/jMe3GL2) (english and spanish)
 
 <a name="other"></a>
 ## Other
