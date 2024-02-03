@@ -88,7 +88,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="geometry"></a>
 ## Geometry
-* 🏳️ ❗ [Blender](https://www.blender.org/get-involved/developers/) 3D modeler
+* 🏳️ ❗ [Blender](https://www.blender.org) 3D modeler
 * [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator
 * ❗ [SimArboreal Editor](https://github.com/Simsilica/SimArboreal-Editor)
 
