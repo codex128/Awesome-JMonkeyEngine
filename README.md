@@ -22,8 +22,9 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
   <li><a href="geometry">Geometry</a></li>
   <li><a href="materials">Materials</a></li>
   <li><a href="#multiplayer">Multiplayer</a></li>
-  <li><a href="#rendering">Rendering</a></li>
   <li><a href="#physics">Physics</a></li>
+  <li><a href="#rendering">Rendering</a></li>
+  <li><a href="#shaders">Shaders</a></li>
   <li><a href="#terrain">Terrain</a></li>
   <li><a href="#ui">User Interface</a></li>
   <li><a href="#utilities">Utilities</a></li>
@@ -100,19 +101,23 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 * [QuakeMonkey](https://github.com/benruijl/quakemonkey) implementation of Quake 3 networking
 * [SimEthereal](https://github.com/Simsilica/SimEthereal) high-performance real-time networked object synching
 
+<a name="physics"></a>
+## Physics
+* 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
+
 <a name="rendering"></a>
 ## Rendering
-* [HoloShader](https://github.com/grizeldi/HoloShader) hologram shader port
 * [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
-* [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib) shaders and filters
 * [SkyControl](https://github.com/stephengold/SkyControl) fancy sky renderer
 * [Spix Light Probes](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/assets/Probes) prebuilt light probes ([thumbnails](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/src/main/resources/probeThumbs))
 * [VideoPlayer](https://github.com/capdevon/jme-video-player) in-game media player
 * [VolumetricLighting](https://github.com/polincdev/VolumetricLighting) volumetric (visible) light rendering
 
-<a name="physics"></a>
-## Physics
-* 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
+<a name="shaders"></a>
+## Shaders
+* [HoloShader](https://github.com/grizeldi/HoloShader) hologram shader port
+* [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib) shaders and filters
+* [ShaderWizard](https://github.com/codex128/ShaderWizard) gui for creating shaders
 
 <a name="terrain"></a>
 ## Terrain
