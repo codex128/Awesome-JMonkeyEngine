@@ -8,7 +8,9 @@ JMonkeyEngine is a free and open-source 3D game engine built with Java. JMonkeyE
 **Don't have JMonkeyEngine yet?** [Get started](https://jmonkeyengine.org/start/)!<br>
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
-🏳️ = highly suggested for your project.
+### Legend
+🏳️ = Highly suggested for your project.<br>
+❗ = Graphical editor
 
 ### Table of Contents
 <ul>
@@ -46,7 +48,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="animation"></a>
 ## Animation
-* [Maud](https://github.com/stephengold/Maud) graphical editor for animated models
+* ❗ [Maud](https://github.com/stephengold/Maud) graphical editor for animated models
 * 🏳️ [Wes](https://github.com/stephengold/Wes) animation library
 
 <a name="ai"></a>
@@ -86,13 +88,15 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="geometry"></a>
 ## Geometry
-* [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator, with [editor](https://github.com/Simsilica/SimArboreal-Editor)
+* 🏳️ ❗ [Blender](https://www.blender.org/get-involved/developers/) 3D modeler
+* [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator
+* ❗ [SimArboreal Editor](https://github.com/Simsilica/SimArboreal-Editor)
 
 <a name="materials"></a>
 ## Materials
 * [Georg](https://github.com/stephengold/Georg) procedural texture generator
 * [MonkeySheet](https://github.com/Pesegato/MonkeySheet) spritesheet library
-* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
+* ❗ [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
 
 <a name="multiplayer"></a>
 ## Multiplayer
@@ -117,7 +121,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 ## Shaders
 * [HoloShader](https://github.com/grizeldi/HoloShader) hologram shader port
 * [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib) shaders and filters
-* [ShaderWizard](https://github.com/codex128/ShaderWizard) gui for creating shaders
+* ❗ [ShaderWizard](https://github.com/codex128/ShaderWizard) gui for creating shaders
 
 <a name="terrain"></a>
 ## Terrain
@@ -154,7 +158,8 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 
 <a name="voxels"></a>
 ## Voxels
-* 🏳️ [Blocks](https://github.com/rvandoosselaer/Blocks) voxel engine, with [editor](https://github.com/rvandoosselaer/BlocksBuilder)
+* 🏳️ [Blocks](https://github.com/rvandoosselaer/Blocks) voxel engine
+* ❗ [Blocks Editor](https://github.com/rvandoosselaer/BlocksBuilder)
 * [VoxelTerrain](https://github.com/TheWiseLion/VoxelTerrain) voxel terrain engine
 
 <a name="2d"></a>
