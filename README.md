@@ -112,7 +112,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 <a name="rendering"></a>
 ## Rendering
 * [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
-* [SevenSky](https://github.com/TehLeo/SevenSky) skybox generator
+* [SevenSky](https://github.com/TehLeo/SevenSky) PBR skybox generator
 * [SkyControl](https://github.com/stephengold/SkyControl) skybox generator
 * [Spix Light Probes](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/assets/Probes) prebuilt light probes ([thumbnails](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/src/main/resources/probeThumbs))
 * [VideoPlayer](https://github.com/capdevon/jme-video-player) in-game media player
