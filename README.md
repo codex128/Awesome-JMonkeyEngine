@@ -1,4 +1,4 @@
-# Resources for JMonkeyEngine
+# Awesome JMonkeyEngine
 
 ![sample-jmonkeyengine-games](https://github.com/codex128/JMonkeyEngine-Resources/blob/master/jme-game-collection.png?raw=true)
 
