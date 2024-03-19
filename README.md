@@ -36,6 +36,8 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
   <li><a href="#other">Other</a></li>
 </ul>
 
+All listed resources are free and open source.
+
 ----
 
 <a name="help"></a>
