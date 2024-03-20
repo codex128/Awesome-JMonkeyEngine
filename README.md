@@ -78,7 +78,8 @@ All listed resources are free and open source.
 * [BetterLensFlare](https://github.com/polincdev/BetterLensFlare) lens flare post-processor
 * [Jme-Effekseer](https://github.com/riccardobl/jme-effekseerNative) Effekseer effect loader and renderer
 * [Jme-VFX](https://github.com/codex128/Jme-VFX) particles and general effects library (work in progress)
-* [JmePhonon](https://github.com/jmePhonon/jmePhonon) steam audio support
+* [JmePhonon](https://github.com/jmePhonon/jmePhonon): steam audio integration.
+* [MipmapBloomFilter](https://github.com/papaspace/jme3-mipmapbloom): soft, high resolution bloom effect utilizing hardware mipmapping.
 * [ParticleMonkey](https://github.com/Jeddic/particlemonkey) particle emission and influence
 * [SelectObjectOutliner](https://github.com/polincdev/SelectObjectOutliner) outlines select objects in a scene
 * [SimFX](https://github.com/Simsilica/SimFX) lighting effects and utilities
