@@ -98,34 +98,35 @@ All listed resources are free and open source.
 <a name="materials"></a>
 ## Materials
 * [Georg](https://github.com/stephengold/Georg) procedural texture generator
-* [MonkeySheet](https://github.com/Pesegato/MonkeySheet) spritesheet library
-* ❗ [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor) procedural seamless texture generator
+* [MonkeySheet](https://github.com/Pesegato/MonkeySheet): everything spritesheet
+* ❗ [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor): procedural seamless texture generator plugin for the SDK.
 
 <a name="multiplayer"></a>
 ## Multiplayer
-* [monkey-netty](https://github.com/tlf30/monkey-netty) server-client communication system using Netty.IO
-* [Open Game Finder](https://code.google.com/archive/p/open-game-finder/downloads/list): multiplayer game-finder
-* [QuakeMonkey](https://github.com/benruijl/quakemonkey) implementation of Quake 3 networking
-* [SimEthereal](https://github.com/Simsilica/SimEthereal) high-performance real-time networked object synching
+* [monkey-netty](https://github.com/tlf30/monkey-netty): server-client communication system using Netty.IO.
+* [Open Game Finder](https://code.google.com/archive/p/open-game-finder/downloads/list): multiplayer game-finder.
+* [QuakeMonkey](https://github.com/benruijl/quakemonkey): Quake 3 networking implementation.
+* [SimEthereal](https://github.com/Simsilica/SimEthereal): high-performance real-time networked object synching.
 
 <a name="physics"></a>
 ## Physics
-* 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
+* 🏳️ [Minie](https://github.com/stephengold/Minie): enhanced bullet physics.
 
 <a name="rendering"></a>
 ## Rendering
 * [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
-* [SevenSky](https://github.com/TehLeo/SevenSky) PBR skybox generator
-* [SkyControl](https://github.com/stephengold/SkyControl) skybox generator
-* [Spix Light Probes](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/assets/Probes) prebuilt light probes ([thumbnails](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/src/main/resources/probeThumbs))
-* [VideoPlayer](https://github.com/capdevon/jme-video-player) in-game media player
-* [VolumetricLighting](https://github.com/polincdev/VolumetricLighting) volumetric (visible) light rendering
+* [SevenSky](https://github.com/TehLeo/SevenSky): highly configurable PBR skybox generator
+* [SkyControl](https://github.com/stephengold/SkyControl): simple but powerful skybox generator
+* [Spix Light Probes](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/assets/Probes): various prebuilt light probes ([previews](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/src/main/resources/probeThumbs) available).
+* [VideoPlayer](https://github.com/capdevon/jme-video-player): realtime media player.
+* [VolumetricLighting](https://github.com/polincdev/VolumetricLighting): renders visible light beams.
 
 <a name="shaders"></a>
 ## Shaders
-* [HoloShader](https://github.com/grizeldi/HoloShader) hologram shader port
-* [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib) shaders and filters
-* ❗ [ShaderWizard](https://github.com/codex128/ShaderWizard) gui for creating shaders
+* [HoloShader](https://github.com/grizeldi/HoloShader): hologram shader with glitching and scan effects.
+* [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib): general-purpose shaders and filters for various effects
+* [ShaderBlowEx](https://github.com/polincdev/ShaderBlowEx): another large collection of filters.
+* ❗ [ShaderWizard](https://github.com/codex128/ShaderWizard): user interface for quickly creating boilerplate shader code.
 
 <a name="terrain"></a>
 ## Terrain
