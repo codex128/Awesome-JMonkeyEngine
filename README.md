@@ -19,6 +19,7 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
   <li><a href="#ai">Artificial Intelligence</a></li>
   <li><a href="#asset-stores">Asset Stores</a></li>
   <li><a href="#asset-tools">Asset Tools</a></li>
+  <li><a href="#debug">Debugging</a></li>
   <li><a href="#effects">Effects</a></li>
   <li><a href="#ecs">Entity Component System</a></li>
   <li><a href="geometry">Geometry</a></li>
@@ -72,6 +73,9 @@ All listed resources are free and open source.
 * [MonkeyWrench](https://github.com/stephengold/MonkeyWrench/tree/master) model importer (gltf+glb, 3ds, blend, dae, fbx, obj, and more)
 * [RyzomConverter](https://github.com/stephengold/RyzomConverter) Ryzom models adaption for use in jme
 * [TMXLoader](https://github.com/jmecn/TMXLoader) tiled map (.tmx) loader
+
+## Debugging
+* [Lina](https://github.com/MisterCavespider/Lina) line geometry library
 
 <a name="effects"></a>
 ## Effects
