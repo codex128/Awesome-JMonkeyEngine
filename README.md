@@ -114,7 +114,8 @@ All listed resources are free and open source.
 
 <a name="physics"></a>
 ## Physics
-* 🏳️ [Minie](https://github.com/stephengold/Minie): enhanced bullet physics.
+* [KK Physics](https://github.com/stephengold/kk-physics) Jolt for JMonkeyEngine
+* 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
 
 <a name="rendering"></a>
 ## Rendering
