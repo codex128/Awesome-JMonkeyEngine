@@ -70,7 +70,7 @@ All listed resources are free and open source.
 * [JCubemapAssembler](https://github.com/riccardobl/JCubemapAssembler): assebles cubemaps from six seperate images
 * [Jogex](https://github.com/Simsilica/jogex) Open Game Engine Exchange (ogex) file handling
 * [JmeConvert](https://github.com/Simsilica/JmeConvert) or [JmeConverter](https://github.com/rvandoosselaer/JmeConverter): convert model formats to j3o
-* [MonkeyWrench](https://github.com/stephengold/MonkeyWrench/tree/master) model importer (gltf+glb, 3ds, blend, dae, fbx, obj, and more)
+* 🏳️ [MonkeyWrench](https://github.com/stephengold/MonkeyWrench/tree/master) model importer (gltf+glb, 3ds, blend, dae, fbx, obj, and more)
 * [RyzomConverter](https://github.com/stephengold/RyzomConverter) Ryzom models adaption for use in jme
 * [TMXLoader](https://github.com/jmecn/TMXLoader) tiled map (.tmx) loader
 
