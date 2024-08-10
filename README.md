@@ -119,6 +119,7 @@ All listed resources are free and open source.
 <a name="rendering"></a>
 ## Rendering
 * [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
+* [Renthyl](https://github.com/codex128/Renthyl) modular FrameGraph-style render pipeline
 * [SevenSky](https://github.com/TehLeo/SevenSky): highly configurable PBR skybox generator
 * [SkyControl](https://github.com/stephengold/SkyControl): simple but powerful skybox generator
 * [Spix Light Probes](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/assets/Probes): various prebuilt light probes ([previews](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/src/main/resources/probeThumbs) available).
