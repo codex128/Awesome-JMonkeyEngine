@@ -119,9 +119,10 @@ All listed resources are free and open source.
 
 <a name="rendering"></a>
 ## Rendering
-* [jME-TTF](https://github.com/stephengold/jME-TTF) TrueType font renderer
-* [Renthyl](https://github.com/codex128/Renthyl) modular FrameGraph-style render pipeline
-* [RenthylPlus](https://github.com/codex128/RenthylPlus) modern render models for JME using Renthyl
+* [JMECompute](https://github.com/codex128/JMECompute): compute shader support
+* [jME-TTF](https://github.com/stephengold/jME-TTF): TrueType font renderer
+* [Renthyl](https://github.com/codex128/Renthyl): modular FrameGraph-style render pipeline
+* [RenthylPlus](https://github.com/codex128/RenthylPlus): modern render models for JME using Renthyl
 * [SevenSky](https://github.com/TehLeo/SevenSky): highly configurable PBR skybox generator
 * [SkyControl](https://github.com/stephengold/SkyControl): simple but powerful skybox generator
 * [Spix Light Probes](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/assets/Probes): various prebuilt light probes ([previews](https://github.com/Simsilica/Spix/tree/MaterialEditor/proto/src/main/resources/probeThumbs) available).
