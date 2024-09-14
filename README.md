@@ -15,7 +15,6 @@ Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https:/
 ### Table of Contents
 <ul>
   <li><a href="#help">Getting Started</a></li>
-  <li><a href="#recommended">Recommended</a></li>
   <li><a href="#animation">Animation</a></li>
   <li><a href="#ai">Artificial Intelligence</a></li>
   <li><a href="#asset-stores">Asset Stores</a></li>
@@ -49,11 +48,6 @@ All listed resources are free and open source.
 * 🏳️ [Official Forum](https://hub.jmonkeyengine.org/)
 * [Chat-jme](https://github.com/riccardobl/chat-jme) assistance AI
 * [JME3Tutorials](https://github.com/jmecn/jME3Tutorials) (in Chinese)
-
-<a name="recommended"></a>
-## Recommended Build
-* [Lemur](https://github.com/jMonkeyEngine-Contributions/Lemur) user interface library
-* [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
 
 <a name="animation"></a>
 ## Animation
@@ -108,6 +102,7 @@ All listed resources are free and open source.
 <a name="materials"></a>
 ## Materials
 * [Georg](https://github.com/stephengold/Georg) procedural texture generator
+* [JmeMaterialPortable](https://github.com/capdevon/jme-material-portable) JSON and YAML material serializer
 * [MonkeySheet](https://github.com/Pesegato/MonkeySheet): everything spritesheet
 * ❗ [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor): procedural seamless texture generator plugin for the SDK.
 
