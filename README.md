@@ -3,13 +3,13 @@
 ![sample-jmonkeyengine-games](https://github.com/codex128/JMonkeyEngine-Resources/blob/master/jme-game-collection.png?raw=true)
 
 ### What is JMonkeyEngine?
-JMonkeyEngine is a free and open-source 3D game engine built with Java. JMonkeyEngine is robust and easy-to-use, while giving as much control as possible to you, the developer. The engine has been used to power titles such as Lightspeed Frontier, Skullstone, Mythruna, and more, since 2003.
+JMonkeyEngine (JME) is a free and open-source 3D game engine built with Java. JMonkeyEngine is robust and easy-to-use, while giving as much control as possible to you, the developer. The engine has been used to power titles such as Lightspeed Frontier, Skullstone, Mythruna, and more, since 2003.
 
 **Don't have JMonkeyEngine yet?** [Get started](https://jmonkeyengine.org/start/)!<br>
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
 ### Legend
-🏳️ = Highly suggested for your project.<br>
+🏳️ = Highly suggested for your project<br>
 ❗ = Graphical editor
 
 ### Table of Contents
@@ -61,9 +61,9 @@ All listed resources are free and open source.
 
 <a name="asset-stores"></a>
 ## Asset Stores
-* [Kenney](https://kenney.nl/) free themed low-poly game assets
-* [Mixamo](https://mixamo.com/) free 3D character models and animations
-* [OpenGameArt](https://opengameart.org/) free general game assets
+* [Kenney](https://kenney.nl/) free themed low-poly game assets (not associated with JME)
+* [Mixamo](https://mixamo.com/) free 3D character models and animations (not associated with JME)
+* [OpenGameArt](https://opengameart.org/) free general game assets (not associated with JME)
 
 <a name="assets-tools"></a>
 ## Asset Tools
@@ -95,7 +95,7 @@ All listed resources are free and open source.
 
 <a name="geometry"></a>
 ## Geometry
-* 🏳️ ❗ [Blender](https://www.blender.org) 3D modeler
+* 🏳️ ❗ [Blender](https://www.blender.org) 3D modeler (not associated with JME)
 * [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator
 * ❗ [SimArboreal Editor](https://github.com/Simsilica/SimArboreal-Editor)
 
