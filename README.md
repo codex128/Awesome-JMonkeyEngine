@@ -8,9 +8,7 @@ JMonkeyEngine (JME) is a free and open-source 3D game engine built with Java. JM
 **Don't have JMonkeyEngine yet?** [Get started](https://jmonkeyengine.org/start/)!<br>
 Questions? Consult our [forum](https://hub.jmonkeyengine.org/) or [wiki](https://wiki.jmonkeyengine.org/)!
 
-### Legend
-🏳️ = Highly suggested for your project<br>
-❗ = Graphical editor
+🏳️ = Highly suggested for your project
 
 ### Table of Contents
 <ul>
@@ -51,7 +49,7 @@ All listed resources are free and open source.
 
 <a name="animation"></a>
 ## Animation
-* ❗ [Maud](https://github.com/stephengold/Maud) graphical editor for animated models
+* [Maud](https://github.com/stephengold/Maud) graphical editor for animated models
 * 🏳️ [Wes](https://github.com/stephengold/Wes) animation library
 
 <a name="ai"></a>
@@ -95,16 +93,16 @@ All listed resources are free and open source.
 
 <a name="geometry"></a>
 ## Geometry
-* 🏳️ ❗ [Blender](https://www.blender.org) 3D modeler (not associated with JME)
+* 🏳️ [Blender](https://www.blender.org) 3D modeler (not associated with JME)
 * [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator
-* ❗ [SimArboreal Editor](https://github.com/Simsilica/SimArboreal-Editor)
+* [SimArboreal Editor](https://github.com/Simsilica/SimArboreal-Editor)
 
 <a name="materials"></a>
 ## Materials
 * [Georg](https://github.com/stephengold/Georg) procedural texture generator
 * [JmeMaterialPortable](https://github.com/capdevon/jme-material-portable) JSON and YAML material serializer
 * [MonkeySheet](https://github.com/Pesegato/MonkeySheet): everything spritesheet
-* ❗ [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor): procedural seamless texture generator plugin for the SDK.
+* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor): procedural seamless texture generator plugin for the SDK.
 
 <a name="multiplayer"></a>
 ## Multiplayer
@@ -115,7 +113,7 @@ All listed resources are free and open source.
 
 <a name="physics"></a>
 ## Physics
-* ❗ [DacWizard](https://github.com/stephengold/DacWizard) gui for configuring Minie ragdolls
+* [DacWizard](https://github.com/stephengold/DacWizard) gui for configuring Minie ragdolls
 * [KK Physics](https://github.com/stephengold/kk-physics) Jolt for JMonkeyEngine
 * 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
 
@@ -136,7 +134,7 @@ All listed resources are free and open source.
 * [HoloShader](https://github.com/grizeldi/HoloShader): hologram shader with glitching and scan effects.
 * [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib): general-purpose shaders and filters for various effects
 * [ShaderBlowEx](https://github.com/polincdev/ShaderBlowEx): another large collection of filters.
-* ❗ [ShaderWizard](https://github.com/codex128/ShaderWizard): user interface for quickly creating boilerplate shader code.
+* [ShaderWizard](https://github.com/codex128/ShaderWizard): user interface for quickly creating boilerplate shader code.
 
 <a name="terrain"></a>
 ## Terrain
@@ -174,7 +172,7 @@ All listed resources are free and open source.
 <a name="voxels"></a>
 ## Voxels
 * 🏳️ [Blocks](https://github.com/rvandoosselaer/Blocks) voxel engine
-* ❗ [Blocks Editor](https://github.com/rvandoosselaer/BlocksBuilder)
+* [Blocks Editor](https://github.com/rvandoosselaer/BlocksBuilder)
 * [VoxelTerrain](https://github.com/TheWiseLion/VoxelTerrain) voxel terrain engine
 
 <a name="2d"></a>
