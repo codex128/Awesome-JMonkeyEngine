@@ -74,6 +74,7 @@ All listed resources are free and open source.
 
 ## Debugging
 * [Lina](https://github.com/MisterCavespider/Lina) line geometry library
+* [ThreadWarden](https://github.com/oneMillionWorlds/ThreadWarden) detects illegal scene graph modification from other threads
 
 <a name="effects"></a>
 ## Effects
@@ -82,7 +83,7 @@ All listed resources are free and open source.
 * [Jme-VFX](https://github.com/codex128/Jme-VFX) particles and general effects library (work in progress)
 * [JmePhonon](https://github.com/jmePhonon/jmePhonon): steam audio integration.
 * [MipmapBloomFilter](https://github.com/papaspace/jme3-mipmapbloom): soft, high resolution bloom effect utilizing hardware mipmapping.
-* [ParticleMonkey](https://github.com/Jeddic/particlemonkey) particle emission and influence
+* 🏳️ [ParticleMonkey](https://github.com/Jeddic/particlemonkey) particle emission and influence
 * [SelectObjectOutliner](https://github.com/polincdev/SelectObjectOutliner) outlines select objects in a scene
 * [SimFX](https://github.com/Simsilica/SimFX) lighting effects and utilities
 
@@ -94,6 +95,7 @@ All listed resources are free and open source.
 <a name="geometry"></a>
 ## Geometry
 * 🏳️ [Blender](https://www.blender.org) 3D modeler (not associated with JME)
+* [DeepTokens](https://github.com/oneMillionWorlds/DeepTokens) generates 3D models of 2D images
 * [SimArboreal](https://github.com/Simsilica/SimArboreal) tree generator
 * [SimArboreal Editor](https://github.com/Simsilica/SimArboreal-Editor)
 
@@ -102,14 +104,15 @@ All listed resources are free and open source.
 * [Georg](https://github.com/stephengold/Georg) procedural texture generator
 * [JmeMaterialPortable](https://github.com/capdevon/jme-material-portable) JSON and YAML material serializer
 * [MonkeySheet](https://github.com/Pesegato/MonkeySheet): everything spritesheet
-* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor): procedural seamless texture generator plugin for the SDK.
+* [NeoTextureEditor](https://github.com/jMonkeyEngine-Contributions/NeoTextureEditor): procedural seamless texture generator plugin for the SDK
+* [TypedMaterials](https://github.com/oneMillionWorlds/TypedMaterials): creates Java files for material definitions
 
 <a name="multiplayer"></a>
 ## Multiplayer
 * [monkey-netty](https://github.com/tlf30/monkey-netty): server-client communication system using Netty.IO.
 * [Open Game Finder](https://code.google.com/archive/p/open-game-finder/downloads/list): multiplayer game-finder.
 * [QuakeMonkey](https://github.com/benruijl/quakemonkey): Quake 3 networking implementation.
-* [SimEthereal](https://github.com/Simsilica/SimEthereal): high-performance real-time networked object synching.
+* 🏳️ [SimEthereal](https://github.com/Simsilica/SimEthereal): high-performance real-time networked object synching.
 
 <a name="physics"></a>
 ## Physics
@@ -132,7 +135,7 @@ All listed resources are free and open source.
 <a name="shaders"></a>
 ## Shaders
 * [HoloShader](https://github.com/grizeldi/HoloShader): hologram shader with glitching and scan effects.
-* [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib): general-purpose shaders and filters for various effects
+* 🏳️ [ShaderBlow](https://github.com/jMonkeyEngine-Contributions/shaderblowlib): general-purpose shaders and filters for various effects
 * [ShaderBlowEx](https://github.com/polincdev/ShaderBlowEx): another large collection of filters.
 * [ShaderWizard](https://github.com/codex128/ShaderWizard): user interface for quickly creating boilerplate shader code.
 
@@ -167,7 +170,7 @@ All listed resources are free and open source.
 * [ARMonkeyKit](https://github.com/ajclarkson/ARMonkeyKit) rapid prototyping for augmented reality
 * [Jme-Cardboard](https://github.com/neph1/jme-cardboard) Google Cardboard integration
 * [jMonkeyVR](https://github.com/phr00t/jMonkeyVR) universal VR development solution
-* [Tamarin](https://github.com/oneMillionWorlds/Tamarin) VR utilites
+* 🏳️ [Tamarin](https://github.com/oneMillionWorlds/Tamarin) VR utilites
 
 <a name="voxels"></a>
 ## Voxels
