@@ -115,6 +115,7 @@ All listed resources are free and open source.
 
 <a name="physics"></a>
 ## Physics
+* ❗ [DacWizard](https://github.com/stephengold/DacWizard) gui for configuring Minie ragdolls
 * [KK Physics](https://github.com/stephengold/kk-physics) Jolt for JMonkeyEngine
 * 🏳️ [Minie](https://github.com/stephengold/Minie) enhanced bullet physics
 
