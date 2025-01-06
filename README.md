@@ -89,7 +89,8 @@ All listed resources are free and open source.
 
 <a name="ecs"></a>
 ## Entity Component System
-* 🏳️ [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
+* [Articular-ES](https://github.com/Electrostat-Lab/Articular-ES) component system
+* 🏳️ [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) pure entity component system
 * [Jme-es-physics](https://github.com/rvandoosselaer/Jme-es-physics) jbullet & [Minie](https://github.com/stephengold/Minie) intergration for [Zay-ES](https://github.com/jMonkeyEngine-Contributions/zay-es) entity component system
 
 <a name="geometry"></a>
